@@ -1,4 +1,4 @@
-<img src="perfil.png" align="right" />
+<img src="public/images/perfil.png" align="right" />
 
 # Clase Handlebars/Partials [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/33fparra/partials_handlebars)
 
